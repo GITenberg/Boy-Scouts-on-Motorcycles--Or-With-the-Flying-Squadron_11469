@@ -1,5 +1,8 @@
 _repo: Boy-Scouts-on-Motorcycles--Or-With-the-Flying-Squadron_11469
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ralphson, G. Harvey (George Harvey)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/849
     wikipedia: http://en.wikipedia.org/wiki/George_Harvey_Ralphson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11469#Boy-Scouts-on-Motorcycles--Or-With-the-Flying-Squadron
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
